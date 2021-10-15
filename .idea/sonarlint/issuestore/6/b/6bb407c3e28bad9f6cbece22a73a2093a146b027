@@ -1,0 +1,7 @@
+
+7
+java:S1116"Remove this empty statement.(Ë–ü„úÿÿÿÿ
+n
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÏÏ†üÿÿÿÿ
+c
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(ÏÏ†üÿÿÿÿ
